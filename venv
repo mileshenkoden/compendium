@@ -1,0 +1,3 @@
+Віртуалтне середовище
+створити (python3 -m venv venv)
+активувати на macOC/Linux(source venv/bin/activate)

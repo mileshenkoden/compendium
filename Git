@@ -1,0 +1,25 @@
+База Git
+git init
+
+git add .
+git commit -m "Initial project structure"
+
+git status
+
+Гілки
+створення гілки
+git checkout -b feature/greeting
+
+повернення на головну
+git checkout main
+
+злиття гілок
+git merge feature/greeting
+
+Відправка на GitHub
+
+Підключаємо
+git remote add origin https://github.com/username/repo.git
+
+Відправляємо
+git push -u origin main
