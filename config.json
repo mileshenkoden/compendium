@@ -1,0 +1,10 @@
+{
+    "app_name": "SiteMonitor",
+    "version": 1.0,
+    "is_active": true,
+    "admin_email": null,
+    "sites": [
+        "google.com",
+        "prom.ua"
+    ]
+}
